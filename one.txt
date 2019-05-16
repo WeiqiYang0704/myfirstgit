@@ -1,0 +1,4 @@
+public static  void main(String [] args){
+	
+}
+阿富汗第四u和覅u但是
